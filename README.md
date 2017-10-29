@@ -1,0 +1,2 @@
+# dotidea
+Idea settings files
